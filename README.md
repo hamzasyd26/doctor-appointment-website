@@ -16,12 +16,6 @@ Doctor Appointment website quite useful website. In this project it consists of 
 * `REACT ROUTER`
 * `REACT TOASTIFY`
 
-## 🌍 How it looks
-
-<details>
-<summary><h3> 📸 - Demo Images </h3></summary>
-
-
 <img src='https://github.com/user-attachments/assets/768d1f94-29e3-4466-90c5-418278abb2ce' width="100%"/>
 
 #
